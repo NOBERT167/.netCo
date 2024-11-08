@@ -1,0 +1,24 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://grc-dkt-002.greencom.co.ke:7047/BC240/WS/CRONUS%20International%20Ltd./Codeunit/PortalIntegration"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
+    ],
+    "namespaceMappings": [
+      "*, NAVWS"
+    ],
+    "references": [
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.2.3}",
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.3}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.4.0}"
+    ],
+    "sync": true,
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
